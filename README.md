@@ -1,4 +1,4 @@
-# sc_package 2.0.3
+# sc_package 2.0.5
 
 ![](https://github.com/user-attachments/assets/1fa0d736-21c8-42a5-89e2-761f660e44ba)
 
