@@ -1,0 +1,41 @@
+["package1"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
+
+	["package2"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
+
+	["package3"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
+
+	["package4"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
+
+	["package5"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
+
+	["package6"] = {
+		label = "Paket",
+		weight = 1200,
+		stack = false,
+		close = true,
+	},
